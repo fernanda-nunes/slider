@@ -31,15 +31,19 @@ Preview: <br>
   4 - Lago: <img src="./src/imagens/preview-lago.png" width="90%">
    <br>
 
-<div style="display: flex; flex-direction: row;">
 Preview - mobile: <br>
-  1 - Flores Rosa: <br> <img src="./src/imagens/preview-mobile-flores rosa.png" width="80%">
+  1 - Flores Rosa: <br> 
+  <img src="./src/imagens/preview-mobile-flores-rosa.png" width="50%">
    <br>
-  2 - Flores Amarelas: <img src="./src/imagens/preview-mobile-flores amarelas.png" width="80%">
+  2 - Flores Amarelas:<br>
+  <img src="./src/imagens/preview-mobile-flores-amarela.png" width="50%">
   <br>
-  3 - Pôr do sol: <img src="./src/imagens/preview-mobile-por do sol.png" width="80%">
+  3 - Pôr do sol: <br>
+  <img src="./src/imagens/preview-mobile-por-do-sol.png " width="50%">
   <br>
-  4 - Lago: <img src="./src/imagens/preview-mobile-lago.png" width="80%">
+  4 - Lago:<br>
+   <img src="./src/imagens/preview-mobile-lago.png" width="50%">
+  <br>
   
   <br>
 
