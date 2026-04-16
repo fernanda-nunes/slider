@@ -20,6 +20,7 @@
 ### Capturas de tela 
 
 <div>
+
 Preview: <br>
   1 - Flores Rosa: <br> <img src="./src/imagens/flores-rosa.jpg" width="90%">
    <br>
@@ -30,15 +31,23 @@ Preview: <br>
   4 - Lago: <img src="./src/imagens/preview-lago.png" width="90%">
    <br>
 
+<div style="display: flex; flex-direction: row;">
 Preview - mobile: <br>
-  <img src="./src/imagens/Preview-mobile.png" width="80%">
+  1 - Flores Rosa: <br> <img src="./src/imagens/preview-mobile-flores rosa.png" width="80%">
+   <br>
+  2 - Flores Amarelas: <img src="./src/imagens/preview-mobile-flores amarelas.png" width="80%">
+  <br>
+  3 - Pôr do sol: <img src="./src/imagens/preview-mobile-por do sol.png" width="80%">
+  <br>
+  4 - Lago: <img src="./src/imagens/preview-mobile-lago.png" width="80%">
+  
   <br>
 
 ### Links 
 <br>
 <ul>
-<li><a href="#" target="_blank"> Repositórios</a></li>
-<li><a href="#" target="_blank"> Site ao vivo</a></li>
+<li><a href="https://github.com/fernanda-nunes/slider" target="_blank"> Repositórios</a></li>
+<li><a href="https://fernanda-nunes.github.io/slider/" target="_blank"> Site ao vivo</a></li>
 </ul>
 <br>
 
