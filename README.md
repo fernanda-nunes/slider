@@ -50,8 +50,8 @@ Preview - mobile: <br>
 ### Links 
 <br>
 <ul>
-<li><a href="https://github.com/fernanda-nunes/slider" target="_blank"> Repositórios</a></li>
-<li><a href="https://fernanda-nunes.github.io/slider/" target="_blank"> Site ao vivo</a></li>
+<li><a href="https://github.com/fernanda-nunes/slider-page/" target="_blank"> Repositórios</a></li>
+<li><a href="https://fernanda-nunes.github.io/slider-page/" target="_blank"> Site ao vivo</a></li>
 </ul>
 <br>
 
